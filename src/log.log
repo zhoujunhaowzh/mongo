@@ -1,0 +1,15 @@
+
+2018/06/26 09:34:22 mload.go:267: =====job start.=====
+
+2018/06/26 09:34:22 mload.go:268: start init colletion
+
+2018/06/26 09:34:22 mload.go:269: mongobench data_test loc false 10000 insert
+
+2018/06/26 09:34:38 mload.go:104: Connect to ali-sh-s1.goodrain.net UserName is   PassWord is  Failed
+
+2018/06/26 09:34:38 mload.go:106: Connect to ali-sh-s1.goodrain.net UserName is   PassWord is  Success
+
+2018/06/26 09:34:38 mload.go:109: Use  mongobench . data_test &{ali-sh-s1.goodrain.net 21052   mongobench data_test 8 10000 8 loc <nil> 0xc4201220c0 0xc42010e150}
+
+2018/06/26 09:34:38 mload.go:278: map[name:edison age:23 sex:male]
+052: read: network is down
